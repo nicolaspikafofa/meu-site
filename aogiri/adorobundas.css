@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;800&display=swap');
+.bahh{
+color: rgba(255, 255, 255, 0.781);
+font-family: Zeyada;
+font-size: 25px;
+}
+
+.tit1{
+    color: rgb(255, 255, 255);
+    font-family: Orbitron;
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: center;
+    vertical-align: middle   
+    }
+
+.desc1{
+    color: rgba(255, 255, 255, 0.692);
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center;
+
+}
